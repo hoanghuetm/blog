@@ -2944,7 +2944,7 @@ button.cr-readmore:hover span img:last-child {
 }
 
 .fullscreen-header .back-to-root-button {
-  color: #ffffff;
+  color: #175ef7;
 }
 
 .fullscreen-header .fsmenu {
@@ -2982,7 +2982,7 @@ button.cr-readmore:hover span img:last-child {
 
 .fullscreen-header .fsmenu ul li a {
   display: block;
-  color: #fc3bd2;
+  color: #ea00ff;
   font-weight: 700;
   font-size: 60px;
   padding: 0 30px;
