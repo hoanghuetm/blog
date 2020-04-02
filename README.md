@@ -1,2 +1,2 @@
 # blog template with moon ❤️
-# publish in https://hoanghuetm.github.io/info
+# See me in https://hoanghuetm.github.io/info
